@@ -1,0 +1,260 @@
+.section {
+
+    background-color: black;
+
+    display: flex;
+    justify-content: space-around;
+
+    color: yellowgreen;
+
+    margin-top: 50px;
+
+    gap: 10px;
+
+    height: 600px;
+}
+
+
+.div {
+
+    display: flex;
+
+    justify-content: center;
+
+
+    border: 5px navy solid;
+
+    border-radius: 15px;
+
+    color: currentColor;
+
+    width: 200px;
+
+    margin-left: 42%;
+}
+
+#div1 , .div2 {
+
+    background-color: cadetblue;
+
+    width: 45%;
+
+    height: 500px;
+     margin-top: 50px;
+
+   
+}
+
+ #generateInput , #pinInput {
+
+    height: 40px;
+
+    border: red 3px solid;
+
+    border-radius: 15px;
+
+    margin-top: 25px;
+
+    background-color: aquamarine;
+
+    margin-left: 45px;
+
+    font-size: larger;
+}
+
+.generateDiv {
+
+    padding: 15px;
+
+    margin-top: 195px;
+
+    padding: 15px;
+
+    height: 80px;
+
+    width: 135px;
+
+    border: red 10px solid;
+
+    border-radius: 75px;
+
+    margin-left: 75px;
+}
+
+#genPin {
+
+    
+
+    margin-top: 15px;
+
+    margin-left: 30px;
+
+}
+
+
+.generateDiv:hover {
+
+    cursor: pointer;
+
+    background-color: yellow;
+    color: black;
+
+    border-color: black;
+}
+
+
+.inputDiv {
+
+
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+
+    margin-top: 55px;
+    
+
+    justify-content: center;
+
+    gap: 5px    ;
+
+    margin-left: 15px;
+
+    font-size: xx-large;
+}
+
+
+#btn {
+
+    height: 50px;
+
+    width: 80%;
+
+    margin-left: 35px;
+
+    margin-top: 60px;
+
+    border: 5px solid yellow;
+
+    background-color: black;
+
+    border-radius: 20px;
+
+    color: red;
+
+    font-size: x-large;
+}
+
+#btn:hover {
+
+    background-color: chocolate;
+
+    color: black;
+
+    cursor: pointer;
+}
+ 
+#a1 , #a2 , #a3 ,#a4 , #a5 , #a6 ,#a7 ,#a8 , #a0 , #a10 , #a9 , #aC {
+
+  border: 6px solid black;
+
+  align-items: center;
+  text-align: center;
+gap: 5px ;
+  border-radius: 8px;
+}
+
+#a1:hover {
+background-color: red;
+border-color: yellow;
+color: black;
+font-weight: 800;
+cursor: pointer;
+}
+
+
+#a2:hover {
+    background-color: red;
+    border-color: yellow;
+    color: black;
+    font-weight: 800;
+    cursor: pointer;
+    }
+
+    #a3:hover {
+        background-color: red;
+        border-color: yellow;
+        color: black;
+        font-weight: 800;
+        cursor: pointer;
+        }
+
+  #a4:hover {
+    background-color: red;
+    border-color: yellow;
+  color: black;
+            font-weight: 800;
+            cursor: pointer;
+            }
+
+            #a5:hover {
+                background-color: red;
+                border-color: yellow;
+                color: black;
+                font-weight: 800;
+                cursor: pointer;
+                }
+
+                #a6:hover {
+                    background-color: red;
+                    border-color: yellow;
+                    color: black;
+                    font-weight: 800;
+                    cursor: pointer;
+                    }
+
+                    #a7:hover {
+                        background-color: red;
+                        border-color: yellow;
+                        color: black;
+                        font-weight: 800;
+                        cursor: pointer;
+                        }
+
+                        #a8:hover {
+                            background-color: red;
+                            border-color: yellow;
+                            color: black;
+                            font-weight: 800;
+                            cursor: pointer;
+                            }
+
+                            #a9:hover {
+                                background-color: red;
+                                border-color: yellow;
+                                color: black;
+                                font-weight: 800;
+                                cursor: pointer;
+                                }
+
+                                #a10:hover {
+                                    background-color: red;
+                                    border-color: yellow;
+                                    color: black;
+                                    font-weight: 800;
+                                    cursor: pointer;
+                                    }
+
+                                    #a0:hover {
+                                        background-color: red;
+                                        border-color: yellow;
+                                        color: black;
+                                        font-weight: 800;
+                                        cursor: pointer;
+                                        }
+
+                                        #aC:hover {
+                                            background-color: red;
+                                            border-color: yellow;
+                                            color: black;
+                                            font-weight: 800;
+                                            cursor: pointer;
+                                            }
